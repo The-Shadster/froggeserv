@@ -1,0 +1,1 @@
+copy %~dp0\regionInfo.json %appdata%\..\LocalLow\Innersloth\"Among Us"\regionInfo.json
